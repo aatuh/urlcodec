@@ -1,4 +1,4 @@
-package urlencoder
+package urlcodec
 
 import (
 	"fmt"
